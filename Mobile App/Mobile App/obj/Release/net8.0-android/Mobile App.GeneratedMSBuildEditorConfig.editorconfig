@@ -1,0 +1,115 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Mobile_App
+build_property.ProjectDir = D:\Internship\Internship-Project\Mobile App\Mobile App\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/Main Screen/CameraPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.Main_Screen.CameraPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Main Screen\CameraPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Main Screen\CameraPage.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/Main Screen/ChangePasswordpage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.Main_Screen.ChangePasswordpage.xaml
+build_metadata.AdditionalFiles.TargetPath = Main Screen\ChangePasswordpage.xaml
+build_metadata.AdditionalFiles.RelativePath = Main Screen\ChangePasswordpage.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/Main Screen/ChangeUserInforContent.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.Main_Screen.ChangeUserInforContent.xaml
+build_metadata.AdditionalFiles.TargetPath = Main Screen\ChangeUserInforContent.xaml
+build_metadata.AdditionalFiles.RelativePath = Main Screen\ChangeUserInforContent.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/Main Screen/ForgotPasswordPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.Main_Screen.ForgotPasswordPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Main Screen\ForgotPasswordPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Main Screen\ForgotPasswordPage.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/Main Screen/InformationTeacherPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.Main_Screen.InformationTeacherPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Main Screen\InformationTeacherPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Main Screen\InformationTeacherPage.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/Main Screen/ListSubjectContent.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.Main_Screen.ListSubjectContent.xaml
+build_metadata.AdditionalFiles.TargetPath = Main Screen\ListSubjectContent.xaml
+build_metadata.AdditionalFiles.RelativePath = Main Screen\ListSubjectContent.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/Main Screen/ResutlPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.Main_Screen.ResutlPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Main Screen\ResutlPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Main Screen\ResutlPage.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/Main Screen/ShowSystemInfor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.Main_Screen.ShowSystemInfor.xaml
+build_metadata.AdditionalFiles.TargetPath = Main Screen\ShowSystemInfor.xaml
+build_metadata.AdditionalFiles.RelativePath = Main Screen\ShowSystemInfor.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/Main Screen/UserContentView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.Main_Screen.UserContentView.xaml
+build_metadata.AdditionalFiles.TargetPath = Main Screen\UserContentView.xaml
+build_metadata.AdditionalFiles.RelativePath = Main Screen\UserContentView.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Internship/Internship-Project/Mobile App/Mobile App/SplashPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Mobile_App.SplashPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SplashPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SplashPage.xaml

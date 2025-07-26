@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile_App.Main_Screen.InformationTeacherPage"
+             Title="Information Course "
+             BackgroundColor="{AppThemeBinding Light='White', Dark = '#1C1C2E'}">
+    <VerticalStackLayout Padding="10">
+
+        <Grid 
+            ColumnDefinitions="Auto, Auto, *" 
+            RowDefinitions="Auto, Auto, Auto, Auto, Auto, Auto, Auto" 
+            RowSpacing="10"
+            ColumnSpacing="5"
+            Padding="5">
+            
+
+            <!-- Row 0 -->
+            <Label Text="•" FontSize="20" FontAttributes="Bold" TextColor="DodgerBlue" Grid.Row="0" Grid.Column="0"/>
+            <Label Text="Name:" FontSize="18" FontAttributes="Bold" Grid.Row="0" Grid.Column="1"/>
+            <Label x:Name="teacherName" FontSize="18" FontAttributes="Italic" Grid.Row="0" Grid.Column="2" LineBreakMode="WordWrap"/>
+
+            <!-- Row 1 -->
+            <Label Text="•" FontSize="20" FontAttributes="Bold" TextColor="DodgerBlue" Grid.Row="1" Grid.Column="0"/>
+            <Label Text="Department:" FontSize="18" FontAttributes="Bold" Grid.Row="1" Grid.Column="1"/>
+            <Label x:Name="teacherDepartment" FontSize="18" FontAttributes="Italic" Grid.Row="1" Grid.Column="2" LineBreakMode="WordWrap"/>
+
+            <!-- Row 2 -->
+            <Label Text="•" FontSize="20" FontAttributes="Bold" TextColor="DodgerBlue" Grid.Row="2" Grid.Column="0"/>
+            <Label Text="Email:" FontSize="18" FontAttributes="Bold" Grid.Row="2" Grid.Column="1"/>
+            <Label x:Name="teacherEmail" FontSize="18" FontAttributes="Italic" Grid.Row="2" Grid.Column="2" LineBreakMode="WordWrap"/>
+
+            <!-- Row 3 -->
+            <Label Text="•" FontSize="20" FontAttributes="Bold" TextColor="DodgerBlue" Grid.Row="3" Grid.Column="0"/>
+            <Label Text="Subject's Id:" FontSize="18" FontAttributes="Bold" Grid.Row="3" Grid.Column="1"/>
+            <Label x:Name="subjectId" FontSize="18" FontAttributes="Italic" Grid.Row="3" Grid.Column="2" LineBreakMode="WordWrap"/>
+
+            <!-- Row 4 -->
+            <Label Text="•" FontSize="20" FontAttributes="Bold" TextColor="DodgerBlue" Grid.Row="4" Grid.Column="0"/>
+            <Label Text="Class's Id:" FontSize="18" FontAttributes="Bold" Grid.Row="4" Grid.Column="1"/>
+            <Label x:Name="classid" FontSize="18" FontAttributes="Italic" Grid.Row="4" Grid.Column="2" LineBreakMode="WordWrap"/>
+
+            <!-- Row 5 -->
+            <Label Text="•" FontSize="20" FontAttributes="Bold" TextColor="DodgerBlue" Grid.Row="5" Grid.Column="0"/>
+            <Label Text="Academic year:" FontSize="18" FontAttributes="Bold" Grid.Row="5" Grid.Column="1"/>
+            <Label x:Name="academicYear" FontSize="18" FontAttributes="Italic" Grid.Row="5" Grid.Column="2" LineBreakMode="WordWrap"/>
+        </Grid>
+
+
+        <Label Text="Attendance table" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+        <Frame BorderColor="LightGray"
+               CornerRadius="5"
+               HasShadow="False"
+               Padding="0">
+
+            <VerticalStackLayout>
+                <Grid ColumnDefinitions="*,*,*" Padding="10" BackgroundColor="{AppThemeBinding Light='#DADADA', Dark = '#1C1C5E'}">
+                    <Label Text="Date" FontSize="18" FontAttributes="Bold" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+                    <Label Text="Status" FontSize="18" FontAttributes="Bold" Grid.Column="1" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+                    <Label Text="Note" FontSize="18" FontAttributes="Bold" Grid.Column="2" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+                </Grid>
+
+                <CollectionView ItemsSource="{Binding AttendanceList}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid ColumnDefinitions="*,Auto,*,Auto,*" Padding="10"
+                                  RowDefinitions="Auto"
+                                  RowSpacing="1"
+                                  BackgroundColor="White">
+                                <Label Text="{Binding dateAttendance, StringFormat='{0:yyyy-MM-dd  HH:mm}'}" Grid.Column="0" HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="Black"/>
+                                <BoxView Grid.Column="1" WidthRequest="1" BackgroundColor="LightGray" VerticalOptions="FillAndExpand" />
+                                <Label Text="{Binding Status}" Grid.Column="2" HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="Black"/>
+                                <BoxView Grid.Column="3" WidthRequest="1" BackgroundColor="LightGray" VerticalOptions="FillAndExpand"/>
+                                <Label Text="{Binding Note}" Grid.Column="4"  HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="Black"/>
+                                
+                            </Grid>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+
+            </VerticalStackLayout>
+        </Frame>
+        
+    </VerticalStackLayout>
+</ContentPage>

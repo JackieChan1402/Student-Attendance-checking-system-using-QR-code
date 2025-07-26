@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile_App.Main_Screen.UserContentView"
+             BackgroundColor="{AppThemeBinding Light='White', Dark = '#1C1C2E'}">
+    <VerticalStackLayout Padding="10">
+        <Label 
+        Text="User's Information"
+        FontSize="20"
+        FontAttributes="Bold"
+        Margin="0,0,0,20"
+        TextColor="{AppThemeBinding Light='Black', Dark = 'White'}"/>
+
+        <Grid 
+            ColumnDefinitions="Auto, Auto, *" 
+            RowDefinitions="Auto, Auto, Auto, Auto" 
+            RowSpacing="10"
+            ColumnSpacing="5"
+            Padding="5">
+
+            <!-- Row 1: Name -->
+            <Label Text="•" FontSize="20" TextColor="DodgerBlue" Grid.Row="0" Grid.Column="0"/>
+            <Label Text="Name:" FontSize="18" FontAttributes="Bold" Grid.Row="0" Grid.Column="1"/>
+            <Label x:Name="userName" FontSize="18" FontAttributes="Italic" Grid.Row="0" Grid.Column="2"
+                   LineBreakMode="WordWrap" />
+
+            <!-- Row 2: ID -->
+            <Label Text="•" FontSize="20" TextColor="DodgerBlue" Grid.Row="1" Grid.Column="0"/>
+            <Label Text="ID:" FontSize="18" FontAttributes="Bold" Grid.Row="1" Grid.Column="1"/>
+            <Label x:Name="userId" FontSize="18" FontAttributes="Italic" Grid.Row="1" Grid.Column="2"
+                   LineBreakMode="WordWrap" />
+
+            <!-- Row 3: Major -->
+            <Label Text="•" FontSize="20" TextColor="DodgerBlue" Grid.Row="2" Grid.Column="0"/>
+            <Label Text="Major:" FontSize="18" FontAttributes="Bold" Grid.Row="2" Grid.Column="1"/>
+            <Label x:Name="userMajor" FontSize="18" FontAttributes="Italic" Grid.Row="2" Grid.Column="2"
+                   LineBreakMode="WordWrap" />
+
+            <!-- Row 4: Contact -->
+            <Label Text="•" FontSize="20" TextColor="DodgerBlue" Grid.Row="3" Grid.Column="0"/>
+            <Label Text="Contact:" FontSize="18" FontAttributes="Bold" Grid.Row="3" Grid.Column="1"/>
+            <Label x:Name="userContact" FontSize="18" FontAttributes="Italic" Grid.Row="3" Grid.Column="2"
+                   LineBreakMode="WordWrap" />
+
+        </Grid>
+
+    </VerticalStackLayout>
+
+</ContentView>

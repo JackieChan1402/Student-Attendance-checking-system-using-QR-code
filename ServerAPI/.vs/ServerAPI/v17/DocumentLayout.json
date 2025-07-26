@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\Internship-Project\\ServerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\services\\autoapprovechangelogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\services\\autoapprovechangelogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\services\\iappservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\services\\iappservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\dtos\\userchangeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\dtos\\userchangeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\services\\teacherinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\services\\teacherinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\controllers\\teacherinforcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\controllers\\teacherinforcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\services\\studentinforservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\services\\studentinforservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\controllers\\studentinforcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\controllers\\studentinforcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\services\\studenttoclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\services\\studenttoclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\controllers\\studenttoclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\controllers\\studenttoclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\models\\student_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\models\\student_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\dtos\\studenttoclassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\dtos\\studenttoclassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\data\\serverdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\data\\serverdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\dtos\\changepasswor\u0111to.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\dtos\\changepasswor\u0111to.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\dtos\\attendancepivotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\dtos\\attendancepivotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\models\\studentchangelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\models\\studentchangelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|d:\\internship\\internship-project\\serverapi\\serverapi\\controllers\\testconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4F7D2-C92D-45FE-835B-1FC5B4AFA0FB}|ServerAPI\\ServerAPI.csproj|solutionrelative:serverapi\\controllers\\testconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoApproveChangeLogService.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\AutoApproveChangeLogService.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Services\\AutoApproveChangeLogService.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\AutoApproveChangeLogService.cs",
+              "RelativeToolTip": "ServerAPI\\Services\\AutoApproveChangeLogService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:11:43.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserChangeInformation.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Dtos\\UserChangeInformation.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Dtos\\UserChangeInformation.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Dtos\\UserChangeInformation.cs",
+              "RelativeToolTip": "ServerAPI\\Dtos\\UserChangeInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:35:23.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentToClassService.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\StudentToClassService.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Services\\StudentToClassService.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\StudentToClassService.cs",
+              "RelativeToolTip": "ServerAPI\\Services\\StudentToClassService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowDUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:58:36.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentToClassController.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Controllers\\StudentToClassController.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Controllers\\StudentToClassController.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Controllers\\StudentToClassController.cs",
+              "RelativeToolTip": "ServerAPI\\Controllers\\StudentToClassController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:56:36.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ServerAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwGEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:12:27.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentInforService.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\StudentInforService.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Services\\StudentInforService.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\StudentInforService.cs",
+              "RelativeToolTip": "ServerAPI\\Services\\StudentInforService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswH4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:08:32.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChangePasswor\u0111to.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Dtos\\ChangePasswor\u0111to.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Dtos\\ChangePasswor\u0111to.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Dtos\\ChangePasswor\u0111to.cs",
+              "RelativeToolTip": "ServerAPI\\Dtos\\ChangePasswor\u0111to.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:03:07.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Services\\UserService.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "ServerAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:41:05.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AttendancePivotDto.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Dtos\\AttendancePivotDto.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Dtos\\AttendancePivotDto.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Dtos\\AttendancePivotDto.cs",
+              "RelativeToolTip": "ServerAPI\\Dtos\\AttendancePivotDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:54:29.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Services\\AttendanceService.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\AttendanceService.cs",
+              "RelativeToolTip": "ServerAPI\\Services\\AttendanceService.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAwwJEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:35:42.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentInforController.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Controllers\\StudentInforController.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Controllers\\StudentInforController.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Controllers\\StudentInforController.cs",
+              "RelativeToolTip": "ServerAPI\\Controllers\\StudentInforController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAlwE0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:23:38.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAppServices.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\IAppServices.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Services\\IAppServices.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\IAppServices.cs",
+              "RelativeToolTip": "ServerAPI\\Services\\IAppServices.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAIA8wGsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:20:43.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student_information.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Models\\Student_information.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Models\\Student_information.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Models\\Student_information.cs",
+              "RelativeToolTip": "ServerAPI\\Models\\Student_information.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:26:39.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentChangeLog.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Models\\StudentChangeLog.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Models\\StudentChangeLog.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Models\\StudentChangeLog.cs",
+              "RelativeToolTip": "ServerAPI\\Models\\StudentChangeLog.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:26:31.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServerDataContext.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Data\\ServerDataContext.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Data\\ServerDataContext.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Data\\ServerDataContext.cs",
+              "RelativeToolTip": "ServerAPI\\Data\\ServerDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:57:13.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Program.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Program.cs",
+              "RelativeToolTip": "ServerAPI\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:53:21.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Controllers\\AttendanceController.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "ServerAPI\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:22:11.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherInfoService.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\TeacherInfoService.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Services\\TeacherInfoService.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Services\\TeacherInfoService.cs",
+              "RelativeToolTip": "ServerAPI\\Services\\TeacherInfoService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAIAwwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:49:57.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherInforController.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Controllers\\TeacherInforController.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Controllers\\TeacherInforController.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Controllers\\TeacherInforController.cs",
+              "RelativeToolTip": "ServerAPI\\Controllers\\TeacherInforController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:35:05.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TestConnection.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Controllers\\TestConnection.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Controllers\\TestConnection.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Controllers\\TestConnection.cs",
+              "RelativeToolTip": "ServerAPI\\Controllers\\TestConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:53:38.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentToClassDto.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Dtos\\StudentToClassDto.cs",
+              "RelativeDocumentMoniker": "ServerAPI\\Dtos\\StudentToClassDto.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\ServerAPI\\ServerAPI\\Dtos\\StudentToClassDto.cs",
+              "RelativeToolTip": "ServerAPI\\Dtos\\StudentToClassDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:29:44.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

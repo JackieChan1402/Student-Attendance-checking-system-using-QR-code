@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:zxing="clr-namespace:ZXing.Net.Maui.Controls;assembly=ZXing.Net.MAUI.Controls"
+             x:Class="Mobile_App.Main_Screen.CameraPage"
+             Title="CameraPage">
+
+    <Grid RowDefinitions="Auto,*" Padding="10">
+        <Grid Grid.Row="0" ColumnDefinitions="*,Auto" ColumnSpacing="10">
+            <Entry x:Name="TextLinks"
+               Placeholder="Link Attendance"
+               TextColor="{AppThemeBinding Light='Black', Dark='White'}"
+               BackgroundColor="{AppThemeBinding Light='#E6F0FA', Dark='#1C1C2E'}"
+               FontAttributes="Bold"
+               FontSize="18"
+               HorizontalOptions="Fill"
+               VerticalOptions="Center"
+               Grid.Column="0" />
+            <Button x:Name="buttonGo"
+                Text="Go"
+                BackgroundColor="#007BFF"
+                TextColor="White"
+                FontAttributes="Bold"
+                FontSize="20"
+                HeightRequest="50"
+                WidthRequest="80"
+                CornerRadius="10"
+                VerticalOptions="Center"
+                Clicked="GoLinkButton"
+                Grid.Column="1" />
+        </Grid>
+        <zxing:CameraBarcodeReaderView
+            x:Name="CameraView"
+            Grid.Row="1"
+            IsDetecting="True"
+            BarcodesDetected="BarcodeDected"/>
+    </Grid>
+   
+</ContentPage>

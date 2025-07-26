@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile_App.LoginPage"
+              BackgroundColor="{AppThemeBinding Light='White', Dark = '#1C1C2E'}">
+
+    <Grid>
+        <VerticalStackLayout Padding="40" Spacing="20" VerticalOptions="Center">
+
+            <!-- Logo + Text-->
+            <Frame BackgroundColor="{AppThemeBinding Light='#E6F0FA', Dark = 'White'}" Padding="10" CornerRadius="10" HorizontalOptions="Center">
+                <VerticalStackLayout>
+                    <Image  Source="logo_usth.png" HeightRequest="80" HorizontalOptions="Center"/>
+                    <Label Text="USTH" FontAttributes="Bold" FontSize="28" HorizontalOptions="Center" TextColor="Black" />
+                </VerticalStackLayout>
+
+
+            </Frame>
+
+            <!--Email Entry-->
+            <Frame BackgroundColor="{AppThemeBinding Light='#E6F0FA', Dark = '#1C1C2E'}" HasShadow="False" BorderColor="LightGray" CornerRadius="25" Padding="10">
+                <Entry FontAttributes="Bold"  Placeholder="Email" x:Name="EmailEntry" BackgroundColor="Transparent" TextColor="{AppThemeBinding Light='Black', Dark = 'White'}"/>
+            </Frame>
+
+            <!--Password Entry-->
+            <Frame BackgroundColor="{AppThemeBinding Light='#E6F0FA', Dark = '#1C1C2E'}" HasShadow="False" BorderColor="LightGray" CornerRadius="25" Padding="10">
+                <Entry TextColor="{AppThemeBinding Light='Black', Dark = 'White'}" FontAttributes="Bold" Placeholder="Password" x:Name="PasswordEntry" IsPassword="True" BackgroundColor="Transparent"/>
+            </Frame>
+            
+            <!--Remember Me-->
+            <HorizontalStackLayout HorizontalOptions="Center">
+                <CheckBox x:Name="RememberMeCheckBox"/>
+                <Label Text="Remeber Me" VerticalOptions="Center" TextColor="{AppThemeBinding Light='Black', Dark = 'White'}" FontAttributes="Bold"/>
+            </HorizontalStackLayout>
+            
+            <!--Forgot password-->
+            <Label Text="Forgot Password"
+            VerticalOptions="Center"
+            TextColor="{AppThemeBinding Light='Black', Dark='White'}"
+             FontAttributes="Bold">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnForgotPasswordTapped" />
+                </Label.GestureRecognizers>
+            </Label>
+            <!--Login button-->
+            <Button  Text="Log In" Clicked="OnLoginClicked" BackgroundColor="#007BFF" TextColor="White" CornerRadius="25" HeightRequest="50" FontAttributes="Bold"/>
+
+            <BoxView HeightRequest="20" Opacity="0"/>
+
+        </VerticalStackLayout>
+        <!--Check Attendance button-->
+        <ImageButton x:Name="CameraButton" Source="icon_camera.png" BackgroundColor="{AppThemeBinding Light='#E6F8FA', Dark = '#1C1C8E'}" HeightRequest="50" WidthRequest="50" CornerRadius="10" Clicked="OnCameraCicked" HorizontalOptions="End" VerticalOptions="End" Margin="20"/>
+    </Grid>
+   
+</ContentPage>

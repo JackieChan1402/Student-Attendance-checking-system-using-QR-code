@@ -1,0 +1,3 @@
+D:\Internship\Internship-Project\Mobile App\Mobile App\bin\Release\net8.0-android\publish\com.companyname.mobileapp-Signed.apk
+D:\Internship\Internship-Project\Mobile App\Mobile App\bin\Release\net8.0-android\publish\com.companyname.mobileapp.apk
+D:\Internship\Internship-Project\Mobile App\Mobile App\bin\Release\net8.0-android\publish\_Microsoft.Android.Resource.Designer.dll

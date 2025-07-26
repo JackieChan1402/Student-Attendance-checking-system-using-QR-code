@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\Internship-Project\\Mobile App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\camerapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\camerapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\functions\\uuidstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\functions\\uuidstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\listsubjectcontent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\listsubjectcontent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\listsubjectcontent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\listsubjectcontent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\informationteacherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\informationteacherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\changeuserinforcontent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\changeuserinforcontent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\functions\\studentupdateinforservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\functions\\studentupdateinforservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\functions\\attendancerecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\functions\\attendancerecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\forgotpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\forgotpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\informationteacherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\informationteacherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\changepasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\changepasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\splashpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\splashpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\camerapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\camerapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\changepasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\changepasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\forgotpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\forgotpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\dto\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\dto\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\splashpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\splashpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\changeuserinforcontent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\changeuserinforcontent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\main screen\\usercontentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\main screen\\usercontentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|d:\\internship\\internship-project\\mobile app\\mobile app\\platforms\\ios\\info.plist||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B4345E8A-B6CF-4CD9-A367-60F730B03FF3}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\platforms\\ios\\info.plist||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangeUserInforContent.xaml.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ChangeUserInforContent.xaml.cs",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\ChangeUserInforContent.xaml.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ChangeUserInforContent.xaml.cs",
+              "RelativeToolTip": "Mobile App\\Main Screen\\ChangeUserInforContent.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T03:03:59.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraPage.xaml.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\CameraPage.xaml.cs",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\CameraPage.xaml.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\CameraPage.xaml.cs",
+              "RelativeToolTip": "Mobile App\\Main Screen\\CameraPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:34:14.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CameraPage.xaml",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\CameraPage.xaml",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\CameraPage.xaml",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\CameraPage.xaml",
+              "RelativeToolTip": "Mobile App\\Main Screen\\CameraPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-24T01:15:18.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangePasswordpage.xaml.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ChangePasswordpage.xaml.cs",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\ChangePasswordpage.xaml.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ChangePasswordpage.xaml.cs",
+              "RelativeToolTip": "Mobile App\\Main Screen\\ChangePasswordpage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:28:56.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChangePasswordpage.xaml",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ChangePasswordpage.xaml",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\ChangePasswordpage.xaml",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ChangePasswordpage.xaml",
+              "RelativeToolTip": "Mobile App\\Main Screen\\ChangePasswordpage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-23T17:23:41.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgotPasswordPage.xaml.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ForgotPasswordPage.xaml.cs",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\ForgotPasswordPage.xaml.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ForgotPasswordPage.xaml.cs",
+              "RelativeToolTip": "Mobile App\\Main Screen\\ForgotPasswordPage.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwDYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:59:36.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ForgotPasswordPage.xaml",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ForgotPasswordPage.xaml",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\ForgotPasswordPage.xaml",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ForgotPasswordPage.xaml",
+              "RelativeToolTip": "Mobile App\\Main Screen\\ForgotPasswordPage.xaml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-23T16:46:03.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AttendanceRecordService.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Functions\\AttendanceRecordService.cs",
+              "RelativeDocumentMoniker": "Mobile App\\Functions\\AttendanceRecordService.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Functions\\AttendanceRecordService.cs",
+              "RelativeToolTip": "Mobile App\\Functions\\AttendanceRecordService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:34:18.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UuidStorage.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Functions\\UuidStorage.cs",
+              "RelativeDocumentMoniker": "Mobile App\\Functions\\UuidStorage.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Functions\\UuidStorage.cs",
+              "RelativeToolTip": "Mobile App\\Functions\\UuidStorage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:05:07.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InformationTeacherPage.xaml",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\InformationTeacherPage.xaml",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\InformationTeacherPage.xaml",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\InformationTeacherPage.xaml",
+              "RelativeToolTip": "Mobile App\\Main Screen\\InformationTeacherPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T13:13:43.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Mobile App\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Mobile App\\LoginPage.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:01:08.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SplashPage.xaml.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\SplashPage.xaml.cs",
+              "RelativeDocumentMoniker": "Mobile App\\SplashPage.xaml.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\SplashPage.xaml.cs",
+              "RelativeToolTip": "Mobile App\\SplashPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:44:22.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InformationTeacherPage.xaml.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\InformationTeacherPage.xaml.cs",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\InformationTeacherPage.xaml.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\InformationTeacherPage.xaml.cs",
+              "RelativeToolTip": "Mobile App\\Main Screen\\InformationTeacherPage.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwDUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:19:03.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Mobile App\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\MainPage.xaml.cs",
+              "RelativeToolTip": "Mobile App\\MainPage.xaml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwGEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:00:15.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AttendanceRecord.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Dto\\AttendanceRecord.cs",
+              "RelativeDocumentMoniker": "Mobile App\\Dto\\AttendanceRecord.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Dto\\AttendanceRecord.cs",
+              "RelativeToolTip": "Mobile App\\Dto\\AttendanceRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:21:12.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Mobile App\\App.xaml.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\App.xaml.cs",
+              "RelativeToolTip": "Mobile App\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:47:23.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Mobile App\\LoginPage.xaml",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\LoginPage.xaml",
+              "RelativeToolTip": "Mobile App\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T09:08:27.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Mobile App\\MainPage.xaml",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\MainPage.xaml",
+              "RelativeToolTip": "Mobile App\\MainPage.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAADQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T13:12:14.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SplashPage.xaml",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\SplashPage.xaml",
+              "RelativeDocumentMoniker": "Mobile App\\SplashPage.xaml",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\SplashPage.xaml",
+              "RelativeToolTip": "Mobile App\\SplashPage.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwCwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T03:40:47.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\App.xaml",
+              "RelativeDocumentMoniker": "Mobile App\\App.xaml",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\App.xaml",
+              "RelativeToolTip": "Mobile App\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T03:48:14.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentUpdateInforService.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Functions\\StudentUpdateInforService.cs",
+              "RelativeDocumentMoniker": "Mobile App\\Functions\\StudentUpdateInforService.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Functions\\StudentUpdateInforService.cs",
+              "RelativeToolTip": "Mobile App\\Functions\\StudentUpdateInforService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:40:21.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListSubjectContent.xaml.cs",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ListSubjectContent.xaml.cs",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\ListSubjectContent.xaml.cs",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ListSubjectContent.xaml.cs",
+              "RelativeToolTip": "Mobile App\\Main Screen\\ListSubjectContent.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:30:56.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListSubjectContent.xaml",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ListSubjectContent.xaml",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\ListSubjectContent.xaml",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ListSubjectContent.xaml",
+              "RelativeToolTip": "Mobile App\\Main Screen\\ListSubjectContent.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T13:12:25.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserContentView.xaml",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\UserContentView.xaml",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\UserContentView.xaml",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\UserContentView.xaml",
+              "RelativeToolTip": "Mobile App\\Main Screen\\UserContentView.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBZwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T13:03:48.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Info.plist",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Platforms\\iOS\\Info.plist",
+              "RelativeDocumentMoniker": "Mobile App\\Platforms\\iOS\\Info.plist",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Platforms\\iOS\\Info.plist",
+              "RelativeToolTip": "Mobile App\\Platforms\\iOS\\Info.plist",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T08:58:15.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChangeUserInforContent.xaml",
+              "DocumentMoniker": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ChangeUserInforContent.xaml",
+              "RelativeDocumentMoniker": "Mobile App\\Main Screen\\ChangeUserInforContent.xaml",
+              "ToolTip": "D:\\Internship\\Internship-Project\\Mobile App\\Mobile App\\Main Screen\\ChangeUserInforContent.xaml",
+              "RelativeToolTip": "Mobile App\\Main Screen\\ChangeUserInforContent.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-10T04:39:46.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
