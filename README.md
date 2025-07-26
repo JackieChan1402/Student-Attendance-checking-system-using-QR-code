@@ -26,5 +26,5 @@ The system supports lecturers and students in the roll call process.
 
 
 
-***If you are a USTH student and want to improve this project, please message me, the contact information is on the GitHub homepage. other cases, please ignore as this project is only for USTH.***
+***If you are a USTH student and want to improve this project, please message me, the contact information is on the GitHub homepage. Other cases, please ignore as this project is only for USTH.***
 
