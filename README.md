@@ -22,6 +22,9 @@ The system supports lecturers and students in the roll call process.
 ### Data Export
 
 * After finishing the course, lecturers can export the roll call list as an Excel file.
+* The exported file can be stored or imported into the school's management system.
 
-The exported file can be stored or imported into the school's management system.
+
+
+***If you are a USTH student and want to improve this project, please message me, the contact information is on the GitHub homepage. other cases, please ignore as this project is only for USTH.***
 
