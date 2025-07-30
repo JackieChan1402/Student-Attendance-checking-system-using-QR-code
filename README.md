@@ -16,8 +16,8 @@ The system supports lecturers and students in the roll call process.
 
 ### Authentication Process
 
-* The system verifies the physical MAC address of student devices to authenticate their presence in class.
-* Students must register their device's MAC address with the system via an Android application before attending classes.
+* The system verifies UUID of student devices to authenticate their presence in class.
+* Students must register their device's UUID address with the system via an Android application before attending classes.
 
 ### Data Export
 
@@ -26,5 +26,5 @@ The system supports lecturers and students in the roll call process.
 
 
 
-***If you are a USTH student and want to improve this project, please message me, the contact information is on the GitHub homepage. Other cases, please ignore as this project is only for USTH.***
+***If you are an USTH student and want to improve this project, please message me, the contact information is on the GitHub homepage. Other cases, please ignore as this project is only for USTH.***
 
